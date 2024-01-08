@@ -1678,7 +1678,7 @@
     "txt2img/ControlNet weight/maximum": 1.0,
     "txt2img/ControlNet weight/step": 0.05,
     "txt2img/ADetailer model 2nd/visible": true,
-    "txt2img/ADetailer model 2nd/value": "None",
+    "txt2img/ADetailer model 2nd/value": "peV2.pt",
     "txt2img/ad_prompt 2nd/visible": true,
     "txt2img/ad_prompt 2nd/value": "",
     "txt2img/ad_negative_prompt 2nd/visible": true,
