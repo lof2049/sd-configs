@@ -1,7 +1,7 @@
 {
     "samples_save": true,
     "samples_format": "png",
-    "samples_filename_pattern": "",
+    "samples_filename_pattern": "[width].[height]",
     "save_images_add_number": true,
     "grid_save": true,
     "grid_format": "png",
