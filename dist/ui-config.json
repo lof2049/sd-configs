@@ -1680,7 +1680,7 @@
     "txt2img/ADetailer model 2nd/visible": true,
     "txt2img/ADetailer model 2nd/value": "pcV2.pt",
     "txt2img/ad_prompt 2nd/visible": true,
-    "txt2img/ad_prompt 2nd/value": "fat cock",
+    "txt2img/ad_prompt 2nd/value": "",
     "txt2img/ad_negative_prompt 2nd/visible": true,
     "txt2img/ad_negative_prompt 2nd/value": "",
     "txt2img/Detection model confidence threshold % 2nd/visible": true,
