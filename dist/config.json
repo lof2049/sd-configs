@@ -65,7 +65,7 @@
     "sd_model_checkpoint": "1ckpt-d-virile/fusionV31.safetensors",
     "sd_checkpoint_cache": 0,
     "sd_vae_checkpoint_cache": 0,
-    "sd_vae": "vae-ft-mse-840000-ema-pruned.safetensors",
+    "sd_vae": "sdxlVAE_sdxlVAE.safetensors",
     "sd_vae_as_default": false,
     "inpainting_mask_weight": 1.0,
     "initial_noise_multiplier": 1.0,
