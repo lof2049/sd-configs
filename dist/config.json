@@ -9,7 +9,7 @@
     "grid_only_if_multiple": true,
     "grid_prevent_empty_spots": false,
     "n_rows": -1,
-    "enable_pnginfo": false,
+    "enable_pnginfo": true,
     "save_txt": false,
     "save_images_before_face_restoration": false,
     "save_images_before_highres_fix": false,
