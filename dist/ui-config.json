@@ -11,6 +11,7 @@
     "txt2img/Sampling method/value": "DPM++ 2M SDE Karras",
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 25,
+    
     "txt2img/Sampling steps/minimum": 1,
     "txt2img/Sampling steps/maximum": 60,
     "txt2img/Sampling steps/step": 1,
@@ -1590,7 +1591,7 @@
     "txt2img/ADetailer model/visible": true,
     "txt2img/ADetailer model/value": "face_yolov8n.pt",
     "txt2img/ad_prompt/visible": true,
-    "txt2img/ad_prompt/value": "",
+    "txt2img/ad_prompt/value": "face",
     "txt2img/ad_negative_prompt/visible": true,
     "txt2img/ad_negative_prompt/value": "",
     "txt2img/Detection model confidence threshold %/visible": true,
@@ -2543,3 +2544,4 @@
     "customscript/extra_options_section.py/img2img/Clip skip/maximum": 12,
     "customscript/extra_options_section.py/img2img/Clip skip/step": 1
 }
+
