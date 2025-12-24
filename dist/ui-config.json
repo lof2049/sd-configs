@@ -121,7 +121,7 @@
     "customscript/xy_grid.py/txt2img/Keep -1 for seeds/visible": true,
     "customscript/xy_grid.py/txt2img/Keep -1 for seeds/value": false,
     "customscript/ddetailer.py/txt2img/Primary detection model (A)/visible": true,
-    "customscript/ddetailer.py/txt2img/Primary detection model (A)/value": "None",
+    "customscript/ddetailer.py/txt2img/Primary detection model (A)/value": "face",
     "customscript/ddetailer.py/txt2img/Detection confidence threshold % (A)/value": 30,
     "customscript/ddetailer.py/txt2img/Detection confidence threshold % (A)/minimum": 0,
     "customscript/ddetailer.py/txt2img/Detection confidence threshold % (A)/maximum": 100,
@@ -2544,4 +2544,5 @@
     "customscript/extra_options_section.py/img2img/Clip skip/maximum": 12,
     "customscript/extra_options_section.py/img2img/Clip skip/step": 1
 }
+
 
